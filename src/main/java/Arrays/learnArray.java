@@ -19,7 +19,7 @@ public class learnArray {
 		}
 		
 		String[] Names=new String[5];
-		Names[0]="Samson";
+		Names[0]="Samson Edward";
 		Names[1]="Jason";
 		Names[2]="Anandhi";
 		Names[3]="Jayaraman";
